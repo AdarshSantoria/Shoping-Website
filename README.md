@@ -45,6 +45,18 @@ To get started with the Shopping Website app, follow these steps:
 3. Run the development server using the provided script (`npm run dev`, `yarn dev`, `pnpm dev`).
 4. Open [http://localhost:3000](http://localhost:3000) in your web browser to view the application.
 
+## Screenshots
+
+### Home Page
+![Home Page](./images/home.png)
+
+### Registration Page
+![Registration Page](./images/register.png)
+
+### Shopping Page
+![Shopping Page ](./images/garement_1.png)
+![Cart Management](./images/garement_2.png)
+
 ## Feedback and Contributions
 
 Feedback and contributions to the Shopping Website app are welcome! If you encounter any issues or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request on GitHub.
