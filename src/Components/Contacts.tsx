@@ -7,7 +7,7 @@ function Contacts() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
                     <div className="flex flex-col justify-center">
                         <h2 className="text-3xl sm:text-4xl text-gray-800 dark:text-white mb-4 font-bold">Contact Us</h2>
-                        <p className="text-lg text-gray-600 dark:text-gray-300">We'd love to hear from you!</p>
+                        <p className="text-lg text-gray-600 dark:text-gray-300">We&apos;d love to hear from you!</p>
                     </div>
                     <div className="flex items-center justify-center sm:justify-end space-x-4">
                         {/* Rating stars */}
