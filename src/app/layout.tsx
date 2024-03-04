@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/Components/Navbar"
-import Contacts from "@/components/Contacts"
+import Contacts from "@/Components/Contacts"
 
 const inter = Inter({ subsets: ["latin"] });
 
